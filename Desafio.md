@@ -13,4 +13,10 @@
      - Edite o arquivo README.md.
      - Use Markdown para formatar informações sobre o desafio, instruções e descrição do projeto.
 Fim.
+### Checklist Desafio:
+[] Criar um Repositório.
+[] Fazer um README.
+[] Colaboração.
+[] Utilizar Markdown e realizar tudo no Github.dev.
+[] Entregar.
 
