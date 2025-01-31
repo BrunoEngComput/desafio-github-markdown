@@ -19,5 +19,5 @@ Fim.
 2. [x] Fazer um README.
 3. [x] Colaboração.
 4. [x] Utilizar Markdown e realizar tudo no Github.dev.
-5. [ ] Entregar.
+5. [x] Entregar.
 ----------------------
