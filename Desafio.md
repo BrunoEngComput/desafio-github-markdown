@@ -20,4 +20,4 @@ Fim.
 3. [] Colaboração.
 4. [] Utilizar Markdown e realizar tudo no Github.dev.
 5. [] Entregar.
------------------------
+----------------------
